@@ -1,4 +1,4 @@
-[![pastime]([https://img.shields.io/badge/IDE-JetBrains-green](https://img.shields.io/badge/%E6%83%B3%E8%A6%81%E6%B6%88%E9%81%A3%E5%90%97-66CCFF))](https://theuselessweb.com/)
+[![pastime](https://img.shields.io/badge/%E6%83%B3%E8%A6%81%E6%B6%88%E9%81%A3%E5%90%97-66CCFF)](https://theuselessweb.com/)
 
 [![WorkSet](https://img.shields.io/badge/IDE-JetBrains-green)](https://www.jetbrains.com/)
 
