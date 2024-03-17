@@ -11,4 +11,3 @@
 
 ![godsboy404's Stats](https://github-readme-stats.vercel.app/api?username=godsboy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![godsboy404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godsboy404&theme=tokyonight&hide_border=true)
-![godsboy404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godsboy404&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
