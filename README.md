@@ -2,7 +2,7 @@
 ### Hello :)
 
 [![WorkSet](https://img.shields.io/badge/IDE-JetBrains-purple)](https://www.jetbrains.com/)
-[![WorkSet](https://img.shields.io/badge/OS-Windows_11_Pro-blue)](https://www.microsoft.com/en-us/windows)
+[![WorkSet](https://img.shields.io/badge/OS-macOS_Sonoma_14.3-blue)](https://www.apple.com/macos/sonoma/)
 
 [![996.icu](https://img.shields.io/badge/NO_996-996.icu-red)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
