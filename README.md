@@ -65,7 +65,7 @@
 [AutoBrandGraph](https://github.com/godsboy404/AutoBrandGraph)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
 [DQN-Pong](https://github.com/godsboy404/DQN-Pong)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
 [compCalc](https://github.com/godsboy404/compCalc)  
-#### ...and more in my repos...
+### ...and more in my repos...
 
 <br>
 
