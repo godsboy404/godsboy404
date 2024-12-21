@@ -5,7 +5,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***What the dog doin'?***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
+### Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
 
 <img align="right" width=260px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
 
@@ -36,22 +36,22 @@ Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Secu
 
 <img align="right" width=350px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/cyberCar.gif"/>
 
-###### Languages & Syntax:
+##### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-###### Code Editors:
+##### Code Editors:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)&nbsp;
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-###### Gaming Storefronts:
+##### Gaming Storefronts:
 ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)&nbsp;
 ![Uplay](https://img.shields.io/badge/Uplay-black?style=for-the-badge&logo=ubisoft)&nbsp;
 
-###### Dev Environments:
+##### Dev Environments:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)&nbsp;
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=fff)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)&nbsp;
