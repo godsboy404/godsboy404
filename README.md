@@ -5,7 +5,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***What the dog doin'?***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
+### Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future.
 
 <img align="right" width=260px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
 
@@ -65,7 +65,7 @@
 [AutoBrandGraph](https://github.com/godsboy404/AutoBrandGraph)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
 [DQN-Pong](https://github.com/godsboy404/DQN-Pong)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
 [compCalc](https://github.com/godsboy404/compCalc)  
-...and more in my repos...
+#### ...and more in my repos...
 
 <br>
 
