@@ -11,4 +11,4 @@
 ![godsboy404's Stats](https://github-readme-stats.vercel.app/api?username=godsboy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![godsboy404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godsboy404&theme=tokyonight&hide_border=true)
 
-![](https://github.com/sindresorhus/sindresorhus/blob/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge3.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge6.gif)
+![](https://github.com/sindresorhus/sindresorhus/blob/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge3.png) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge6.gif)
