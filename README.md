@@ -1,16 +1,104 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
-### Hello :)
 
-[![WorkSet](https://img.shields.io/badge/IDE-JetBrains-purple)](https://www.jetbrains.com/)
-[![WorkSet](https://img.shields.io/badge/OS-macOS_Sequoia_15.2-blue)](https://www.apple.com/macos/sonoma/)
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***What the dog doin'?***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![996.icu](https://img.shields.io/badge/NO_996-996.icu-red)](https://996.icu)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![pastime](https://img.shields.io/badge/%E6%83%B3%E8%A6%81%E6%B6%88%E9%81%A3%E5%90%97-66CCFF)](https://theuselessweb.com/)
+Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
 
-![godsboy404's Stats](https://github-readme-stats.vercel.app/api?username=godsboy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![godsboy404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godsboy404&theme=tokyonight&hide_border=true)
+<img align="right" width=270px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
 
-![](https://github.com/sindresorhus/sindresorhus/blob/main/counter.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge5.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge1.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge3.png) ![](https://github.com/sindresorhus/sindresorhus/blob/main/badge6.gif)
+- 📚 Currently learning ...
+  - *Computer Systems*
+  - *Data Structure & Algorithms*
+  - *Discrete Math*
+  - *Reinforcement Learning*
+- ⛳️ Next Year's Goal
+  - *Computer Network*
+  - *Operating Systems*
+  - *Database*
+  - *Blockchain*
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=godsboy404&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=godsboy404&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="75%" />
+    </a>
+</div>     
+
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech stack***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" width=360px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/cyberCar.gif"/>
+
+###### Languages & Syntax:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
+###### Code Editors:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)&nbsp;
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+###### Gaming Storefronts:
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
+![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)&nbsp;
+![Uplay](https://img.shields.io/badge/Uplay-black?style=for-the-badge&logo=ubisoft)&nbsp;
+
+###### Dev Environments:
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)&nbsp;
+![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=fff)&nbsp;
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)&nbsp;
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Recent Project***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" width=310px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/chanGirl.gif"/>
+
+[AutoBrandGraph](https://github.com/godsboy404/AutoBrandGraph)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
+[DQN-Pong](https://github.com/godsboy404/DQN-Pong)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
+[compCalc](https://github.com/godsboy404/compCalc)
+
+<br>
+
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=godsboy404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godsboy404&theme=tokyonight&hide_border=true" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=godsboy404&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
+
+<!-- Visitor Counter -->
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/counter.gif">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/badge1.gif">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/badge3.png">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/badge6.gif">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/badge5.gif">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
