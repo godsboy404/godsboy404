@@ -7,7 +7,7 @@
 
 Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
 
-<img align="right" width=270px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
+<img align="right" width=250px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
 
 - 📚 Currently learning ...
   - *Computer Systems*
@@ -33,7 +33,7 @@ Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Secu
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Tech stack***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=360px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/cyberCar.gif"/>
+<img align="right" width=350px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/cyberCar.gif"/>
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
