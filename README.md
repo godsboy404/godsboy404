@@ -7,8 +7,9 @@
 
 Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Security😄), a sophomore @YNU, and a fighter with burning passion for the future yet almost worn down by the numerous challenges of life.
 
-<img align="right" width=250px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
+<img align="right" width=260px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/baka.gif"/>
 
+- [lil' gift 4 ya](https://freecomputerbooks.com)
 - 📚 Currently learning ...
   - *Computer Systems*
   - *Data Structure & Algorithms*
@@ -63,7 +64,8 @@ Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Secu
 
 [AutoBrandGraph](https://github.com/godsboy404/AutoBrandGraph)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
 [DQN-Pong](https://github.com/godsboy404/DQN-Pong)![NEW](https://github.com/sindresorhus/sindresorhus/blob/main/hot.gif)  
-[compCalc](https://github.com/godsboy404/compCalc)
+[compCalc](https://github.com/godsboy404/compCalc)  
+...and more in my repos...
 
 <br>
 
@@ -86,6 +88,13 @@ Hi there fellas, here sitting an CS enthusiast(Computer Science, also Cyber Secu
 </table>
 </p>
 <br>
+
+<img align="right" width=330px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/love.gif"/>
+
+### *Monday left me broken*
+### *Tuesday I was through with hopin'*
+### *Wednesday my empty arms were open*
+### *Thursday waiting for love, waiting for love*
 
 <!-- Visitor Counter -->
 <br>
