@@ -58,7 +58,7 @@
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Recent Project***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Recent Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" width=350px alt="Unicorn" src="https://github.com/godsboy404/godsboy404/blob/main/chanGirl.gif"/>
 
