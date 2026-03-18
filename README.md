@@ -25,7 +25,7 @@
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=godsboy404&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="75%" />
+        <img src="https://github-profile-trophy-winning.vercel.app/?username=godsboy404&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="75%" />
     </a>
 </div>     
 
